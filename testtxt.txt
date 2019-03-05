@@ -1,2 +1,2 @@
-test change -master branch
+test change -master branch --changed
 test change -A1branch
